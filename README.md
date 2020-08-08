@@ -13,8 +13,11 @@ Uma das razões que ajudaram o OEE a ser largamente utilizado é por nos diz, de
 Exemplo:
 
 Peças boas produzidas no turno: 3000 peças
+
 Peças boas que o equipamento tem capacidade de produzir no turno: 5000 peças
+
 OEE = 3000 / 5000 * 100% = 60%
+
 Neste exemplo o OEE de 60% nos indica que o equipamento produziu 60% dos itens bons que o equipamento tem capacidade para produzir no período, e que houve uma perda de 40%, ou seja,  2000 itens deixaram de ser produzidos ou foram produzidos com defeito.
 
 O OEE nos diz quanto tempo o equipamento produziu em relação ao tempo disponível.  Do tempo que produziu, quão rápido ele produziu itens.  E dos itens produzidos quantos atenderam as especificações.   E com isto o OEE não diz apenas quanto houve de perda, mas também onde estão as perdas, facilitando a vida de quem cuida da produção e precisa tomar ações para atingir as metas de produção.
