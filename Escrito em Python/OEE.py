@@ -214,3 +214,4 @@ while True:
 
             print('O resultado e {:.2f}%\n'.format(m))
             quit()
+'''THE END'''
