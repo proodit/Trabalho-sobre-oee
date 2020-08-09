@@ -25,5 +25,3 @@ O OEE nos diz quanto tempo o equipamento produziu em relação ao tempo disponí
 Gestores podem analisar todas as oportunidades de melhoria e escolher aquelas que proporcionam um retorno maior ou aquela que, apesar de apresentar um retorno menor, pode ser alcançada rapidamente à um custo pequeno, como por exemplo um treinamento para equipe de produção.
 
 Outro fator importante para a adoção do OEE na gestão da performance fabril deve-se ao fato de que o uso de indicadores de desempenho financeiro não refletem a realidade da manufatura levando, muitas vezes, os gestores da produção a tomarem decisões erradas.
-
-https://www.oee.com.br/o-que-e-oee/
